@@ -1,2 +1,1 @@
 # inflabs
-inf
